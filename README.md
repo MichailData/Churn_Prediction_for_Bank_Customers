@@ -10,7 +10,7 @@ Welcome to my Data Science project on Churn Prediction for Bank Customers. A rea
 
 [Html Files in Raw Form](): Raw html file & images of the project.
 
-[LICENSE](): GNU General Public License v3.0
+[LICENSE](https://github.com/MichailData/Churn_Prediction_for_Bank_Customers/blob/main/LICENSE): GNU General Public License v3.0
 
 <br /> I also invite you to visit [My LinkedIn profile](https://www.linkedin.com/in/michail-mavrogiannis/) and see my other [GitHub](https://github.com/MichailData?tab=repositories) projects.
 <br /> Sincerely,
