@@ -4,11 +4,11 @@ Welcome to my Data Science project on Churn Prediction for Bank Customers. A rea
 
 <br /> REPOSITORY FILES:
 
-[HTML LINK TO PROJECT.md](): Contains the direct link to the project in html form. Can also [click here](https://michaildata.github.io/Churn_Prediction_for_Bank_Customers/Html%20Files%20in%20Raw%20Form/Churn.html) for convenience. The project is provided in html to maintain original notebook features, such as interactive table of contents.
+[HTML LINK TO PROJECT.md](https://github.com/MichailData/Churn_Prediction_for_Bank_Customers/blob/main/HTML%20LINK%20TO%20PROJECT.md): Contains the direct link to the project in html form. Can also [click here](https://michaildata.github.io/Churn_Prediction_for_Bank_Customers/Html%20Files%20in%20Raw%20Form/Churn.html) for convenience. The project is provided in html to maintain original notebook features, such as interactive table of contents.
 
-[Data](): Input data in csv.
+[Data](https://github.com/MichailData/Churn_Prediction_for_Bank_Customers/blob/main/Data.csv): Input data in csv.
 
-[Html Files in Raw Form](): Raw html file & images of the project.
+[Html Files in Raw Form](https://github.com/MichailData/Churn_Prediction_for_Bank_Customers/tree/main/Html%20Files%20in%20Raw%20Form): Raw html file & images of the project.
 
 [LICENSE](https://github.com/MichailData/Churn_Prediction_for_Bank_Customers/blob/main/LICENSE): GNU General Public License v3.0
 
