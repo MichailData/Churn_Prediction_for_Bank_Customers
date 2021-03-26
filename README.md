@@ -1,6 +1,6 @@
 # Churn Prediction for Bank Customers
 
-Welcome to my Data Science project on Churn Prediction for Bank Customers. A real dataset with user characteristics & behavioral features for 10,000 customers of a bank is explored, processed and utilized to train a Machine Learning model to predict churn probability. Data exploration and model interpretation findings are turned into actionable information for the bank to reduce churn. An optimized probability cutoff is estimated for the classification model, to minimize bank costs. The following sections will navigate you through all the above.
+Welcome to my Data Science project on Churn Prediction for Bank Customers. A real dataset with user characteristics & behavioral features for 10,000 customers of a bank is explored, processed and utilized to train a Machine Learning model to predict churn probability. Data exploration and model interpretation findings are turned into actionable information for the bank to reduce churn. An optimized probability cutoff is estimated for the classification model, to minimize bank costs. 
 
 <br /> REPOSITORY FILES:
 
